@@ -41,6 +41,132 @@
           "rating": 4
         }
       ]
+    },
+    {
+      "id": 2,
+      "make": "Ford",
+      "model": "Mustang",
+      "rental_price": 80,
+      "thumbnail_img": "https://imageupload.io/ib/NWdgpH4c8Tvxz6g_1695062609.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/SRuvbRvBZgDEsHv_1695062766.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/xTaK9zEtdxDNips_1695062764.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/h7rYKmfhzKJj1iH_1695062764.webp"
+        }
+      ],
+      "specs": {
+        "type": "Muscle Car",
+        "desc": "The redesigned 2024 Ford Mustang introduces the seventh generation of the pony car, though much of the previous Mustang's DNA is still present. The new car rides on the same platform and uses the same engines (all with slight modifications), meaning that the new Mustang drives similarly to the outgoing model.",
+        "transmission": "Manual",
+        "seats": 4,
+        "fuel_capacity": 16.0
+      },
+      "reviews": [
+        {
+          "profile_image": "user1.jpg",
+          "name": "John Doe",
+          "comment": "I love my Toyota Camry! It's a great family car with excellent fuel efficiency.",
+          "rating": 5
+        },
+        {
+          "profile_image": "user2.jpg",
+          "name": "Jane Smith",
+          "comment": "The Camry's comfortable seats make long drives a breeze, but I wish it had more tech features.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "make": "Ford",
+      "model": "Mustang",
+      "rental_price": 80,
+      "thumbnail_img": "https://imageupload.io/ib/NWdgpH4c8Tvxz6g_1695062609.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/SRuvbRvBZgDEsHv_1695062766.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/xTaK9zEtdxDNips_1695062764.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/h7rYKmfhzKJj1iH_1695062764.webp"
+        }
+      ],
+      "specs": {
+        "type": "Muscle Car",
+        "desc": "The redesigned 2024 Ford Mustang introduces the seventh generation of the pony car, though much of the previous Mustang's DNA is still present. The new car rides on the same platform and uses the same engines (all with slight modifications), meaning that the new Mustang drives similarly to the outgoing model.",
+        "transmission": "Manual",
+        "seats": 4,
+        "fuel_capacity": 16.0
+      },
+      "reviews": [
+        {
+          "profile_image": "user1.jpg",
+          "name": "John Doe",
+          "comment": "I love my Toyota Camry! It's a great family car with excellent fuel efficiency.",
+          "rating": 5
+        },
+        {
+          "profile_image": "user2.jpg",
+          "name": "Jane Smith",
+          "comment": "The Camry's comfortable seats make long drives a breeze, but I wish it had more tech features.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "make": "Lamborghini",
+      "model": "Aventador",
+      "rental_price": 85,
+      "thumbnail_img": "https://imageupload.io/ib/iHCQdxd6GphOjpV_1695063470.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/r44Ysdu8jTbYazf_1695063478.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/fuXQ7C9PeR6J5Jk_1695063469.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/GweieSzxUX1yfAs_1695063473.webp"
+        }
+      ],
+      "specs": {
+        "type": "Sports Car",
+        "desc": "In production for over a decade, the Lamborghini Aventador has reached the end of its long and winding road. To celebrate the model's success, the 2022 Aventador comes only in new LP 780-4 Ultimae specification, its sonorous 6.5-liter V12 engine now equipped with titanium intake valves to make the Ultimae the most powerful example of the supercar ever made.",
+        "transmission": "Manual",
+        "seats": 2,
+        "fuel_capacity": 22.5
+      },
+      "reviews": [
+        {
+          "profile_image": "user1.jpg",
+          "name": "John Doe",
+          "comment": "I love my Toyota Camry! It's a great family car with excellent fuel efficiency.",
+          "rating": 5
+        },
+        {
+          "profile_image": "user2.jpg",
+          "name": "Jane Smith",
+          "comment": "The Camry's comfortable seats make long drives a breeze, but I wish it had more tech features.",
+          "rating": 4
+        }
+      ]
     }
   ]
 }
