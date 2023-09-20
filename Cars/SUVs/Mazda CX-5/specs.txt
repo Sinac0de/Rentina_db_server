@@ -1,0 +1,4 @@
+type: SUV
+Fuel Tank Capacity: 15.3 gal. 
+Seats: 5 seats
+transmission: Automatic
