@@ -1,0 +1,4 @@
+type: pickup truck
+Fuel Tank Capacity: 16.0 gal.
+Seats: 4 seats
+transmission: Manual

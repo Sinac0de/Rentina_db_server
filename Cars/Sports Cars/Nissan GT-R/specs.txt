@@ -1,0 +1,4 @@
+type: Sports car
+Fuel Tank Capacity: 19.5 gal. 
+Seats: 4 seats
+transmission: Manual

@@ -1,0 +1,4 @@
+type: Muscle Car
+Fuel Tank Capacity: 18.5 gal. 
+Seats: 5 seats
+transmission: Automatic

@@ -1,0 +1,4 @@
+type: Small Sedan
+Fuel Tank Capacity: 13.2 gal.
+Seats: 5 Seats
+transmission: Automatic
