@@ -22,7 +22,7 @@
         }
       ],
       "specs": {
-        "type": "Small Sedan",
+        "type": "Sedan",
         "desc": "Everybody has a Toyota Corolla story. This compact car made Toyota a household brand in the U.S. well before there was a Camry, a RAV4 or a Tacoma, making a name for itself with its dependability, fuel efficiency and practicality. Those traits continue to define the modern Toyota Corolla, which gets numerous updates for the 2023 model year.",
         "transmission": "Automatic",
         "seats": 4,
@@ -185,31 +185,31 @@
     },
     {
       "id": 4,
-      "make": "Ford",
-      "model": "F-150",
-      "rental_price": 65,
-      "discount_percent": 0,
-      "thumbnail_img": "https://imageupload.io/ib/YnJdXtviKjdIyM0_1695154247.png",
+      "make": "Kia",
+      "model": "Soul",
+      "rental_price": 70,
+      "discount_percent": 10,
+      "thumbnail_img": "https://imageupload.io/ib/JxabGGN85gwPIj6_1695300629.png",
       "img_urls": [
         {
           "id": 1,
-          "src": "https://imageupload.io/ib/3fQixVjKnRJj715_1695065037.jpg"
+          "src": "https://imageupload.io/ib/3ubjyA9P5BvCf6j_1695300630.webp"
         },
         {
           "id": 2,
-          "src": "https://imageupload.io/ib/VaoNkKSr3SzDTZ0_1695065037.webp"
+          "src": "https://imageupload.io/ib/1BIc2B5fcafxNFE_1695300630.webp"
         },
         {
           "id": 3,
-          "src": "https://imageupload.io/ib/NxWdEgAEQpOdOEt_1695065035.jpg"
+          "src": "https://imageupload.io/ib/auGhLIjMZreaZau_1695300631.webp"
         }
       ],
       "specs": {
-        "type": "Pickup Truck",
-        "desc": "The Ford F-150's updated interior and features enhance the best attributes of a modern pickup: power, efficiency, comfort and capability. Add to that a huge range of configurations and options, and you've got a highly appealing light-duty pickup.",
+        "type": "Hatchback",
+        "desc": "The Kia Soul has a lot going for it. Its boxy shape gives it a seriously roomy passenger cabin and cargo area. It's also fun to drive, with above-average handling abilities and an intuitive continuously variable automatic transmission (CVT). Minor grievances aside, this small SUV offers solid value for the money and is one of the best compacts out there.",
         "transmission": "Automatic",
-        "seats": 6,
-        "fuel_capacity": 26.0
+        "seats": 5,
+        "fuel_capacity": 14.3
       },
       "reviews": [
         {
@@ -310,7 +310,7 @@
       "make": "Ford",
       "model": "Escape",
       "rental_price": 85,
-      "discount_percent": 10,
+      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/AthqrEcjyDeKl2y_1695149316.png",
       "img_urls": [
         {
@@ -332,6 +332,433 @@
         "transmission": "Automatic",
         "seats": 5,
         "fuel_capacity": 14.8
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Alex Stanton",
+          "Occupation": "CEO at Bukalapak",
+          "review": "We are greatly helped by the services of the Rentina Application. Rentina has low prices and also a wide variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite."
+        },
+        {
+          "id": 2,
+          "name": "Skylar Dias",
+          "Occupation": "CEO at Amazon",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs."
+        },
+        {
+          "id": 3,
+          "name": "Elena Rodriguez",
+          "Occupation": "Pediatrician",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs. Rentina delivers a seamless rental experience with impeccable vehicles, friendly staff, and transparent pricing. Whether you need a car for a short trip or an extended adventure, their flexibility and commitment to customer satisfaction make them the go-to choice for your rental needs. Don't miss out on this exceptional service."
+        },
+        {
+          "id": 4,
+          "name": "Sarah Mitchell",
+          "Occupation": "Software Engineer",
+          "review": "My experience with Rentina was seamless and stress-free, thanks to their well-maintained vehicles, accommodating staff, and competitive pricing. Whether for business or leisure, they are my go-to choice for reliable car rentals."
+        },
+        {
+          "id": 5,
+          "name": "Michael Turner",
+          "Occupation": "Financial Analyst",
+          "review": "My recent car rental with Rentina was a seamless and enjoyable experience. Their well-maintained vehicles, friendly staff, and flexibility in service make them a top choice for any traveler. I'll definitely choose them again for future rentals."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "make": "Audi",
+      "model": "R8",
+      "rental_price": 90,
+      "discount_percent": 5,
+      "thumbnail_img": "https://imageupload.io/ib/PO8hUHEAVjObh7I_1695301054.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/nyqPHw4fMGkWoSo_1695301112.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/WcZSKK2L663kz2p_1695301113.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/9N0da4C0zeaGOSF_1695301112.webp"
+        }
+      ],
+      "specs": {
+        "type": "Sports Car",
+        "desc": "The Audi R8 V10 Performance easily earns high scores, and not just because it's a performance powerhouse. Its athleticism doesn't come at the expense of refinement or drivability, and its lustworthy status is upheld through craftsmanship and technology.",
+        "transmission": "Manual",
+        "seats": 2,
+        "fuel_capacity": 19.3
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Alex Stanton",
+          "Occupation": "CEO at Bukalapak",
+          "review": "We are greatly helped by the services of the Rentina Application. Rentina has low prices and also a wide variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite."
+        },
+        {
+          "id": 2,
+          "name": "Skylar Dias",
+          "Occupation": "CEO at Amazon",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs."
+        },
+        {
+          "id": 3,
+          "name": "Elena Rodriguez",
+          "Occupation": "Pediatrician",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs. Rentina delivers a seamless rental experience with impeccable vehicles, friendly staff, and transparent pricing. Whether you need a car for a short trip or an extended adventure, their flexibility and commitment to customer satisfaction make them the go-to choice for your rental needs. Don't miss out on this exceptional service."
+        },
+        {
+          "id": 4,
+          "name": "Sarah Mitchell",
+          "Occupation": "Software Engineer",
+          "review": "My experience with Rentina was seamless and stress-free, thanks to their well-maintained vehicles, accommodating staff, and competitive pricing. Whether for business or leisure, they are my go-to choice for reliable car rentals."
+        },
+        {
+          "id": 5,
+          "name": "Michael Turner",
+          "Occupation": "Financial Analyst",
+          "review": "My recent car rental with Rentina was a seamless and enjoyable experience. Their well-maintained vehicles, friendly staff, and flexibility in service make them a top choice for any traveler. I'll definitely choose them again for future rentals."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "make": "Honda",
+      "model": "Accord",
+      "rental_price": 75,
+      "discount_percent": 15,
+      "thumbnail_img": "https://imageupload.io/ib/BvBPUSWufnxbIsT_1695301360.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/75m88AkA7w0qqpY_1695301360.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/RmhbIfgl0KnAFKU_1695301360.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/Ky37NtzYEEJPZbB_1695301360.webp"
+        }
+      ],
+      "specs": {
+        "type": "Sedan",
+        "desc": "The latest Accord is a solid choice for a family sedan. It's roomy, practical and easy to drive. It's also impressively fuel-efficient if you get the hybrid powertrain. But some of the Accord's newest tech and features are exclusively available on the top trim level, the Touring. Unless you're willing to shell out for a fully loaded model, the Accord just doesn't stand out in the class like it used to.",
+        "transmission": "Manual",
+        "seats": 5,
+        "fuel_capacity": 14.8
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Alex Stanton",
+          "Occupation": "CEO at Bukalapak",
+          "review": "We are greatly helped by the services of the Rentina Application. Rentina has low prices and also a wide variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite."
+        },
+        {
+          "id": 2,
+          "name": "Skylar Dias",
+          "Occupation": "CEO at Amazon",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs."
+        },
+        {
+          "id": 3,
+          "name": "Elena Rodriguez",
+          "Occupation": "Pediatrician",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs. Rentina delivers a seamless rental experience with impeccable vehicles, friendly staff, and transparent pricing. Whether you need a car for a short trip or an extended adventure, their flexibility and commitment to customer satisfaction make them the go-to choice for your rental needs. Don't miss out on this exceptional service."
+        },
+        {
+          "id": 4,
+          "name": "Sarah Mitchell",
+          "Occupation": "Software Engineer",
+          "review": "My experience with Rentina was seamless and stress-free, thanks to their well-maintained vehicles, accommodating staff, and competitive pricing. Whether for business or leisure, they are my go-to choice for reliable car rentals."
+        },
+        {
+          "id": 5,
+          "name": "Michael Turner",
+          "Occupation": "Financial Analyst",
+          "review": "My recent car rental with Rentina was a seamless and enjoyable experience. Their well-maintained vehicles, friendly staff, and flexibility in service make them a top choice for any traveler. I'll definitely choose them again for future rentals."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "rental_price": 70,
+      "discount_percent": 0,
+      "thumbnail_img": "https://imageupload.io/ib/I20hxpmyYP8irT2_1695301661.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/dd2CrzDhI6AEhwO_1695301661.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/N3cqph25SiVfMyN_1695301661.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/CLWVaa5Dvr2movg_1695301662.webp"
+        }
+      ],
+      "specs": {
+        "type": "Muscle Car",
+        "desc": "Regardless of engine, the Camaro is the best-driving muscle car of its segment, edging out more expensive sports cars when it comes to behind-the-wheel thrills. Poor outward visibility and a tiny trunk limit its practicality as a daily driver. If you can live with these downsides, you'll be rewarded every time you drive it. If not, the Mustang and the Challenger deliver similar thrills with fewer flaws.",
+        "transmission": "Manual",
+        "seats": 4,
+        "fuel_capacity": 19.0
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Alex Stanton",
+          "Occupation": "CEO at Bukalapak",
+          "review": "We are greatly helped by the services of the Rentina Application. Rentina has low prices and also a wide variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite."
+        },
+        {
+          "id": 2,
+          "name": "Skylar Dias",
+          "Occupation": "CEO at Amazon",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs."
+        },
+        {
+          "id": 3,
+          "name": "Elena Rodriguez",
+          "Occupation": "Pediatrician",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs. Rentina delivers a seamless rental experience with impeccable vehicles, friendly staff, and transparent pricing. Whether you need a car for a short trip or an extended adventure, their flexibility and commitment to customer satisfaction make them the go-to choice for your rental needs. Don't miss out on this exceptional service."
+        },
+        {
+          "id": 4,
+          "name": "Sarah Mitchell",
+          "Occupation": "Software Engineer",
+          "review": "My experience with Rentina was seamless and stress-free, thanks to their well-maintained vehicles, accommodating staff, and competitive pricing. Whether for business or leisure, they are my go-to choice for reliable car rentals."
+        },
+        {
+          "id": 5,
+          "name": "Michael Turner",
+          "Occupation": "Financial Analyst",
+          "review": "My recent car rental with Rentina was a seamless and enjoyable experience. Their well-maintained vehicles, friendly staff, and flexibility in service make them a top choice for any traveler. I'll definitely choose them again for future rentals."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "make": "Dodge",
+      "model": "Viper",
+      "rental_price": 90,
+      "discount_percent": 10,
+      "thumbnail_img": "https://imageupload.io/ib/4XC1fMbMB9PyI2T_1695301901.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/HEVJVC5Hg0peCFm_1695301901.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/pLGZYRASQX5Y9qn_1695301901.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/07sDFfOIyX8RzYB_1695301902.webp"
+        }
+      ],
+      "specs": {
+        "type": "Sports Car",
+        "desc": "With a massive 8.4-liter V10 engine, a cockpit that wouldn't be out of place in a race car and all the civility of a hungry bear, the 2017 Dodge Viper is a lot more than just your basic sports car. Driving one is a raw, visceral and aggressive experience like no other. Its trim level lineup ranges from stripped-out and bare-bones to a truly one-of-a-kind car capable of dominating at any racetrack. It also turns heads as much as exotics costing three times as much.",
+        "transmission": "Manual",
+        "seats": 2,
+        "fuel_capacity": 16.0
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Alex Stanton",
+          "Occupation": "CEO at Bukalapak",
+          "review": "We are greatly helped by the services of the Rentina Application. Rentina has low prices and also a wide variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite."
+        },
+        {
+          "id": 2,
+          "name": "Skylar Dias",
+          "Occupation": "CEO at Amazon",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs."
+        },
+        {
+          "id": 3,
+          "name": "Elena Rodriguez",
+          "Occupation": "Pediatrician",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs. Rentina delivers a seamless rental experience with impeccable vehicles, friendly staff, and transparent pricing. Whether you need a car for a short trip or an extended adventure, their flexibility and commitment to customer satisfaction make them the go-to choice for your rental needs. Don't miss out on this exceptional service."
+        },
+        {
+          "id": 4,
+          "name": "Sarah Mitchell",
+          "Occupation": "Software Engineer",
+          "review": "My experience with Rentina was seamless and stress-free, thanks to their well-maintained vehicles, accommodating staff, and competitive pricing. Whether for business or leisure, they are my go-to choice for reliable car rentals."
+        },
+        {
+          "id": 5,
+          "name": "Michael Turner",
+          "Occupation": "Financial Analyst",
+          "review": "My recent car rental with Rentina was a seamless and enjoyable experience. Their well-maintained vehicles, friendly staff, and flexibility in service make them a top choice for any traveler. I'll definitely choose them again for future rentals."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "make": "Porsche",
+      "model": "Cayenne",
+      "rental_price": 80,
+      "discount_percent": 0,
+      "thumbnail_img": "https://imageupload.io/ib/uG8FrPzukPtaaRz_1695302355.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/zHrC3HI48u2Y9SO_1695302355.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/C02Iin1JAqvJ3AM_1695302356.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/Cl3gFsrml7XcEql_1695302356.webp"
+        }
+      ],
+      "specs": {
+        "type": "SUV",
+        "desc": "No matter what you're looking for from your midsize luxury SUV, the 2024 Porsche Cayenne probably delivers it. As with all Porsches, the Cayenne prioritizes performance and driver engagement, but the SUV still offers loads of luxury and tech and it's highly customizable. Still, this latest-generation Cayenne has been out since 2019 without a whole lot of changes so it's nice to see that Porsche is making a raft of updates to the 2024 Cayenne.",
+        "transmission": "Automatic",
+        "seats": 5,
+        "fuel_capacity": 23.7
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Alex Stanton",
+          "Occupation": "CEO at Bukalapak",
+          "review": "We are greatly helped by the services of the Rentina Application. Rentina has low prices and also a wide variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite."
+        },
+        {
+          "id": 2,
+          "name": "Skylar Dias",
+          "Occupation": "CEO at Amazon",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs."
+        },
+        {
+          "id": 3,
+          "name": "Elena Rodriguez",
+          "Occupation": "Pediatrician",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs. Rentina delivers a seamless rental experience with impeccable vehicles, friendly staff, and transparent pricing. Whether you need a car for a short trip or an extended adventure, their flexibility and commitment to customer satisfaction make them the go-to choice for your rental needs. Don't miss out on this exceptional service."
+        },
+        {
+          "id": 4,
+          "name": "Sarah Mitchell",
+          "Occupation": "Software Engineer",
+          "review": "My experience with Rentina was seamless and stress-free, thanks to their well-maintained vehicles, accommodating staff, and competitive pricing. Whether for business or leisure, they are my go-to choice for reliable car rentals."
+        },
+        {
+          "id": 5,
+          "name": "Michael Turner",
+          "Occupation": "Financial Analyst",
+          "review": "My recent car rental with Rentina was a seamless and enjoyable experience. Their well-maintained vehicles, friendly staff, and flexibility in service make them a top choice for any traveler. I'll definitely choose them again for future rentals."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "make": "Nissan",
+      "model": "GT-R",
+      "rental_price": 75,
+      "discount_percent": 0,
+      "thumbnail_img": "https://imageupload.io/ib/Zwc4fUF8gwcSwp1_1695302586.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/PI1vtkvRqxmxZYj_1695302593.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/CkMJgs9ivdyvYET_1695302595.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/EJJQ5yn3EKPmRmw_1695302595.webp"
+        }
+      ],
+      "specs": {
+        "type": "Sports Car",
+        "desc": "Even though it's more expensive now than it once was, the Nissan GT-R remains a bargain in the supercar category. Real-world performance is exceptional, though it doesn't feel as sporty on a track.",
+        "transmission": "Manual",
+        "seats": 4,
+        "fuel_capacity": 19.5
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Alex Stanton",
+          "Occupation": "CEO at Bukalapak",
+          "review": "We are greatly helped by the services of the Rentina Application. Rentina has low prices and also a wide variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite."
+        },
+        {
+          "id": 2,
+          "name": "Skylar Dias",
+          "Occupation": "CEO at Amazon",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs."
+        },
+        {
+          "id": 3,
+          "name": "Elena Rodriguez",
+          "Occupation": "Pediatrician",
+          "review": "Rentina provided an outstanding car rental experience, offering top-quality vehicles, exceptional customer service, and great value for money. Their flexibility and transparency in pricing make them a top choice for hassle-free rentals. I highly recommend them for your next car rental needs. Rentina delivers a seamless rental experience with impeccable vehicles, friendly staff, and transparent pricing. Whether you need a car for a short trip or an extended adventure, their flexibility and commitment to customer satisfaction make them the go-to choice for your rental needs. Don't miss out on this exceptional service."
+        },
+        {
+          "id": 4,
+          "name": "Sarah Mitchell",
+          "Occupation": "Software Engineer",
+          "review": "My experience with Rentina was seamless and stress-free, thanks to their well-maintained vehicles, accommodating staff, and competitive pricing. Whether for business or leisure, they are my go-to choice for reliable car rentals."
+        },
+        {
+          "id": 5,
+          "name": "Michael Turner",
+          "Occupation": "Financial Analyst",
+          "review": "My recent car rental with Rentina was a seamless and enjoyable experience. Their well-maintained vehicles, friendly staff, and flexibility in service make them a top choice for any traveler. I'll definitely choose them again for future rentals."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "make": "Porsche",
+      "model": "911",
+      "rental_price": 70,
+      "discount_percent": 0,
+      "thumbnail_img": "https://imageupload.io/ib/mLhmWxqOMLAGJPi_1695302917.png",
+      "img_urls": [
+        {
+          "id": 1,
+          "src": "https://imageupload.io/ib/n3c5hEJcIZ7P2Bw_1695302921.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://imageupload.io/ib/BeCxEKVbWiAiChV_1695302922.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://imageupload.io/ib/QG2xKrE8UlZwx5l_1695302920.webp"
+        }
+      ],
+      "specs": {
+        "type": "Sports Car",
+        "desc": "The Porsche 911 expertly fills the middle ground between touring and scintillating performance. The interior will likely divide opinion, but Porsche's push for modernity has been largely successful. Though it may have lost its evocative sound, the 911 hasn't lost its benchmark status.",
+        "transmission": "Manual",
+        "seats": 4,
+        "fuel_capacity": 16.9
       },
       "reviews": [
         {

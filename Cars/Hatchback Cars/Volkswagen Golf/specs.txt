@@ -1,0 +1,4 @@
+type: Hatchback
+Fuel Tank Capacity: 13.2 gal. 
+Seats: 5 seats
+transmission: Automatic
