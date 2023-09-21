@@ -1,0 +1,4 @@
+type: Sedan
+Fuel Tank Capacity: 19.3 gal.
+Seats: 5 Seats
+transmission: Manual
