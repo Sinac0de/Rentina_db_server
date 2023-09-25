@@ -4,8 +4,6 @@
       "id": 1,
       "make": "Porsche",
       "model": "911",
-      "rental_price": 70,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/mLhmWxqOMLAGJPi_1695302917.png",
       "img_urls": [
         {
@@ -22,6 +20,8 @@
         }
       ],
       "specs": {
+        "rental_price": 70,
+        "discount_percent": 0,
         "type": "Sports Car",
         "desc": "The Porsche 911 expertly fills the middle ground between touring and scintillating performance. The interior will likely divide opinion, but Porsche's push for modernity has been largely successful. Though it may have lost its evocative sound, the 911 hasn't lost its benchmark status.",
         "transmission": "Manual",
@@ -65,8 +65,6 @@
       "id": 2,
       "make": "Ford",
       "model": "Mustang",
-      "rental_price": 80,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/jyPi4lUDiiCmetF_1695154246.png",
       "img_urls": [
         {
@@ -83,6 +81,8 @@
         }
       ],
       "specs": {
+        "rental_price": 80,
+        "discount_percent": 0,
         "type": "Muscle Car",
         "desc": "The redesigned 2024 Ford Mustang introduces the seventh generation of the pony car, though much of the previous Mustang's DNA is still present. The new car rides on the same platform and uses the same engines (all with slight modifications), meaning that the new Mustang drives similarly to the outgoing model.",
         "transmission": "Manual",
@@ -126,8 +126,6 @@
       "id": 3,
       "make": "Lamborghini",
       "model": "Aventador",
-      "rental_price": 85,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/QZJFJaCkkk1SDg5_1695150115.png",
       "img_urls": [
         {
@@ -144,6 +142,8 @@
         }
       ],
       "specs": {
+        "rental_price": 85,
+        "discount_percent": 10,
         "type": "Sports Car",
         "desc": "In production for over a decade, the Lamborghini Aventador has reached the end of its long and winding road. To celebrate the model's success, the 2022 Aventador comes only in new LP 780-4 Ultimae specification, its sonorous 6.5-liter V12 engine now equipped with titanium intake valves to make the Ultimae the most powerful example of the supercar ever made.",
         "transmission": "Manual",
@@ -187,8 +187,6 @@
       "id": 4,
       "make": "Kia",
       "model": "Soul",
-      "rental_price": 70,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/JxabGGN85gwPIj6_1695300629.png",
       "img_urls": [
         {
@@ -205,6 +203,8 @@
         }
       ],
       "specs": {
+        "rental_price": 70,
+        "discount_percent": 10,
         "type": "Hatchback",
         "desc": "The Kia Soul has a lot going for it. Its boxy shape gives it a seriously roomy passenger cabin and cargo area. It's also fun to drive, with above-average handling abilities and an intuitive continuously variable automatic transmission (CVT). Minor grievances aside, this small SUV offers solid value for the money and is one of the best compacts out there.",
         "transmission": "Automatic",
@@ -248,8 +248,6 @@
       "id": 5,
       "make": "BMW",
       "model": "X5",
-      "rental_price": 75,
-      "discount_percent": 20,
       "thumbnail_img": "https://imageupload.io/ib/f1naZSmXaTRCwxN_1695149059.png",
       "img_urls": [
         {
@@ -266,6 +264,8 @@
         }
       ],
       "specs": {
+        "rental_price": 75,
+        "discount_percent": 20,
         "type": "SUV",
         "desc": "If you're looking for a midsize luxury SUV, you are spoiled for choice as seemingly every manufacturer from Audi to Cadillac to Maserati offers one. But the 2024 BMW X5 is a standout in its class thanks to a masterful blend of power, performance and utility. It offers loads of standard features and dozens of options for personalizing, from blue brake calipers to heated armrests.",
         "transmission": "Automatic",
@@ -309,8 +309,6 @@
       "id": 6,
       "make": "Ford",
       "model": "Escape",
-      "rental_price": 85,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/AthqrEcjyDeKl2y_1695149316.png",
       "img_urls": [
         {
@@ -327,6 +325,8 @@
         }
       ],
       "specs": {
+        "rental_price": 85,
+        "discount_percent": 0,
         "type": "SUV",
         "desc": "The Ford Escape provides most of what you'd expect of a small SUV, including a roomy cabin, helpful technology features and very comfortable seats. Storage capability isn't mind-blowing, but it's certainly good enough. The Escape's few but significant drawbacks include unrefined transmission shifting and a lack of handling precision.",
         "transmission": "Automatic",
@@ -370,8 +370,6 @@
       "id": 7,
       "make": "Audi",
       "model": "R8",
-      "rental_price": 90,
-      "discount_percent": 5,
       "thumbnail_img": "https://imageupload.io/ib/PO8hUHEAVjObh7I_1695301054.png",
       "img_urls": [
         {
@@ -388,6 +386,8 @@
         }
       ],
       "specs": {
+        "rental_price": 90,
+        "discount_percent": 5,
         "type": "Sports Car",
         "desc": "The Audi R8 V10 Performance easily earns high scores, and not just because it's a performance powerhouse. Its athleticism doesn't come at the expense of refinement or drivability, and its lustworthy status is upheld through craftsmanship and technology.",
         "transmission": "Manual",
@@ -431,8 +431,6 @@
       "id": 8,
       "make": "Honda",
       "model": "Accord",
-      "rental_price": 75,
-      "discount_percent": 15,
       "thumbnail_img": "https://imageupload.io/ib/BvBPUSWufnxbIsT_1695301360.png",
       "img_urls": [
         {
@@ -449,6 +447,8 @@
         }
       ],
       "specs": {
+        "rental_price": 75,
+        "discount_percent": 15,
         "type": "Sedan",
         "desc": "The latest Accord is a solid choice for a family sedan. It's roomy, practical and easy to drive. It's also impressively fuel-efficient if you get the hybrid powertrain. But some of the Accord's newest tech and features are exclusively available on the top trim level, the Touring. Unless you're willing to shell out for a fully loaded model, the Accord just doesn't stand out in the class like it used to.",
         "transmission": "Manual",
@@ -492,8 +492,6 @@
       "id": 9,
       "make": "Chevrolet",
       "model": "Camaro",
-      "rental_price": 70,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/I20hxpmyYP8irT2_1695301661.png",
       "img_urls": [
         {
@@ -510,6 +508,8 @@
         }
       ],
       "specs": {
+        "rental_price": 70,
+        "discount_percent": 0,
         "type": "Muscle Car",
         "desc": "Regardless of engine, the Camaro is the best-driving muscle car of its segment, edging out more expensive sports cars when it comes to behind-the-wheel thrills. Poor outward visibility and a tiny trunk limit its practicality as a daily driver. If you can live with these downsides, you'll be rewarded every time you drive it. If not, the Mustang and the Challenger deliver similar thrills with fewer flaws.",
         "transmission": "Manual",
@@ -553,8 +553,6 @@
       "id": 10,
       "make": "Dodge",
       "model": "Viper",
-      "rental_price": 90,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/4XC1fMbMB9PyI2T_1695301901.png",
       "img_urls": [
         {
@@ -571,6 +569,8 @@
         }
       ],
       "specs": {
+        "rental_price": 90,
+        "discount_percent": 10,
         "type": "Sports Car",
         "desc": "With a massive 8.4-liter V10 engine, a cockpit that wouldn't be out of place in a race car and all the civility of a hungry bear, the 2017 Dodge Viper is a lot more than just your basic sports car. Driving one is a raw, visceral and aggressive experience like no other. Its trim level lineup ranges from stripped-out and bare-bones to a truly one-of-a-kind car capable of dominating at any racetrack. It also turns heads as much as exotics costing three times as much.",
         "transmission": "Manual",
@@ -614,8 +614,6 @@
       "id": 11,
       "make": "Porsche",
       "model": "Cayenne",
-      "rental_price": 80,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/uG8FrPzukPtaaRz_1695302355.png",
       "img_urls": [
         {
@@ -632,6 +630,8 @@
         }
       ],
       "specs": {
+        "rental_price": 80,
+        "discount_percent": 0,
         "type": "SUV",
         "desc": "No matter what you're looking for from your midsize luxury SUV, the 2024 Porsche Cayenne probably delivers it. As with all Porsches, the Cayenne prioritizes performance and driver engagement, but the SUV still offers loads of luxury and tech and it's highly customizable. Still, this latest-generation Cayenne has been out since 2019 without a whole lot of changes so it's nice to see that Porsche is making a raft of updates to the 2024 Cayenne.",
         "transmission": "Automatic",
@@ -675,8 +675,6 @@
       "id": 12,
       "make": "Nissan",
       "model": "GT-R",
-      "rental_price": 75,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/Zwc4fUF8gwcSwp1_1695302586.png",
       "img_urls": [
         {
@@ -693,6 +691,8 @@
         }
       ],
       "specs": {
+        "rental_price": 75,
+        "discount_percent": 0,
         "type": "Sports Car",
         "desc": "Even though it's more expensive now than it once was, the Nissan GT-R remains a bargain in the supercar category. Real-world performance is exceptional, though it doesn't feel as sporty on a track.",
         "transmission": "Manual",
@@ -736,8 +736,6 @@
       "id": 13,
       "make": "Toyota",
       "model": "Corolla",
-      "rental_price": 70,
-      "discount_percent": 15,
       "thumbnail_img": "https://imageupload.io/ib/34JUKvFe9WEqT4l_1695154109.png",
       "img_urls": [
         {
@@ -754,6 +752,8 @@
         }
       ],
       "specs": {
+        "rental_price": 70,
+        "discount_percent": 15,
         "type": "Sedan",
         "desc": "Everybody has a Toyota Corolla story. This compact car made Toyota a household brand in the U.S. well before there was a Camry, a RAV4 or a Tacoma, making a name for itself with its dependability, fuel efficiency and practicality. Those traits continue to define the modern Toyota Corolla, which gets numerous updates for the 2023 model year.",
         "transmission": "Automatic",
@@ -797,8 +797,6 @@
       "id": 14,
       "make": "BMW",
       "model": "3 Series",
-      "rental_price": 75,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/SOJ6xwEFaX13RlL_1695319480.png",
       "img_urls": [
         {
@@ -815,6 +813,8 @@
         }
       ],
       "specs": {
+        "rental_price": 75,
+        "discount_percent": 0,
         "type": "Sedan",
         "desc": "The latest-generation BMW 3 Series is a solid luxury sport sedan. But some rivals offer more impressive design and technology. Unfortunately, benchmark is no longer one of the descriptors that come to mind for the 3 Series.",
         "transmission": "Automatic",
@@ -858,8 +858,6 @@
       "id": 15,
       "make": "Dodge",
       "model": "Charger",
-      "rental_price": 85,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/YWrPxcF8FUPCBSS_1695320124.png",
       "img_urls": [
         {
@@ -876,6 +874,8 @@
         }
       ],
       "specs": {
+        "rental_price": 85,
+        "discount_percent": 0,
         "type": "Muscle Car",
         "desc": "No other American sedan has the same combination of performance, comfort and muscle car style as the Charger. Acceleration is quick and the brakes are reassuringly strong, but the vague steering feel and the suspension's sensitivity to midcorner bumps hamper overall handling. Scores for convenience and utility are also middling.",
         "transmission": "Automatic",
@@ -919,8 +919,6 @@
       "id": 16,
       "make": "Volkswagen",
       "model": "Golf",
-      "rental_price": 85,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/am1iroRkdaHSnvR_1695320377.png",
       "img_urls": [
         {
@@ -937,6 +935,8 @@
         }
       ],
       "specs": {
+        "rental_price": 85,
+        "discount_percent": 0,
         "type": "Hatchback",
         "desc": "The Golf is dated but not without positive attributes. It has exceptional ride quality, a quiet interior and excellent fuel economy. And thanks to its well-matched 1.4-liter engine and eight-speed automatic, the Golf is an enjoyable daily companion. But the lack of optional features, downmarket interior plastics and mediocre tires ultimately make the Golf less desirable than more well-rounded competitors.",
         "transmission": "Automatic",
@@ -980,8 +980,6 @@
       "id": 17,
       "make": "Chevrolet",
       "model": "Corvette",
-      "rental_price": 95,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/iSXCi8inF0C7nRE_1695327387.png",
       "img_urls": [
         {
@@ -998,6 +996,8 @@
         }
       ],
       "specs": {
+        "rental_price": 95,
+        "discount_percent": 0,
         "type": "Sports car",
         "desc": "After its transformative redesign in 2020, the C8 Corvette surpassed a number of high-end sports car rivals in our luxury sport coupe rankings. And thanks to a few additional tech improvements, it's likely cemented its place at the top of the heap for a while to come. The Corvette is bonkers fast, it handles beautifully, and it still manages traffic and daily errands. The styling may be controversial, but its price and performance certainly are not.",
         "transmission": "Manual",
@@ -1041,8 +1041,6 @@
       "id": 18,
       "make": "Land Rover",
       "model": "Range Rover",
-      "rental_price": 95,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/Sfzfv2ERGir16w8_1695320744.png",
       "img_urls": [
         {
@@ -1059,6 +1057,8 @@
         }
       ],
       "specs": {
+        "rental_price": 95,
+        "discount_percent": 10,
         "type": "SUV",
         "desc": "The Range Rover is a stunner and knows it — this latest version of the iconic SUV is built to impress. It has a strong engine and refined driving dynamics that eliminate unpleasantness for those in the cabin. There are also numerous splashy features and a spacious interior. There is no ignoring the price, however, and cargo space is limited. Still, its sheer style and presence will seal the deal for many people.",
         "transmission": "Automatic",
@@ -1102,8 +1102,6 @@
       "id": 19,
       "make": "Honda",
       "model": "CR-V",
-      "rental_price": 95,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/W88ya12FSIcsO2e_1695321126.png",
       "img_urls": [
         {
@@ -1120,6 +1118,8 @@
         }
       ],
       "specs": {
+        "rental_price": 95,
+        "discount_percent": 10,
         "type": "SUV",
         "desc": "There's a reason many consider the Honda CR-V the benchmark small SUV for families. Its latest version pulls off this feat yet again with a smooth ride, helpful tech features and excellent storage space. Still, competitors have improved significantly. The CR-V is a good choice but no longer the clear leader.",
         "transmission": "Automatic",
@@ -1163,8 +1163,6 @@
       "id": 20,
       "make": "Nissan",
       "model": "370Z",
-      "rental_price": 75,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/hZiqYhSebNC2mgY_1695322238.png",
       "img_urls": [
         {
@@ -1181,6 +1179,8 @@
         }
       ],
       "specs": {
+        "rental_price": 75,
+        "discount_percent": 0,
         "type": "Sports Car",
         "desc": "Long neglected by Nissan, the Z might now appeal only to unrepentent enthusiasts who can look past and welcome the car's idiosyncrasies and lack of refinement. Driving purity can be found less expensively in a Miata or a BRZ. For power and real modernity, look to the Camaro and Mustang.",
         "transmission": "Manual",
@@ -1224,8 +1224,6 @@
       "id": 21,
       "make": "Toyota",
       "model": "Camry",
-      "rental_price": 70,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/avFd8H3AexVF65C_1695322538.png",
       "img_urls": [
         {
@@ -1242,6 +1240,8 @@
         }
       ],
       "specs": {
+        "rental_price": 70,
+        "discount_percent": 10,
         "type": "Sedan",
         "desc": "Thanks to strong fuel economy, a comfortable interior and good value, the Toyota Camry is one of our higher-ranked midsize sedans. It's an easy go-to choice. But a lackluster four-cylinder engine and excessive wind and engine noise keep it from being best-in-class.",
         "transmission": "Automatic",
@@ -1285,8 +1285,6 @@
       "id": 22,
       "make": "Hyundai",
       "model": "Elantra",
-      "rental_price": 65,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/u8A5i5ANNyCYRyA_1695323036.png",
       "img_urls": [
         {
@@ -1303,6 +1301,8 @@
         }
       ],
       "specs": {
+        "rental_price": 65,
+        "discount_percent": 10,
         "type": "Sedan",
         "desc": "The new Elantra stands out with its high fuel economy, impressive technology and safety features, and roomy cabin. It's also comfortable and strong on value. Other than a lackluster base engine, there's not much to complain about. It's a great pick for a small sedan.",
         "transmission": "Automatic",
@@ -1346,8 +1346,6 @@
       "id": 23,
       "make": "Hyundai",
       "model": "Sonata",
-      "rental_price": 60,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/NWStS7ozfRVmSGJ_1695323294.png",
       "img_urls": [
         {
@@ -1364,6 +1362,8 @@
         }
       ],
       "specs": {
+        "rental_price": 60,
+        "discount_percent": 0,
         "type": "Sedan",
         "desc": "The Sonata has the aura of a more expensive vehicle. It's stylish and it overdelivers in key areas, including its great-looking and easy-to-use infotainment system display, cool parking camera system and long warranty coverage. But in other areas, the Sonata merely matches what you'd expect from a midsize sedan, and it falters slightly when it comes to ride quality and seat comfort.",
         "transmission": "Automatic",
@@ -1407,8 +1407,6 @@
       "id": 24,
       "make": "Dodge",
       "model": "Challenger",
-      "rental_price": 100,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/xqrIS5xnpafvLYg_1695323517.png",
       "img_urls": [
         {
@@ -1425,6 +1423,8 @@
         }
       ],
       "specs": {
+        "rental_price": 100,
+        "discount_percent": 10,
         "type": "Muscle Car",
         "desc": "The Challenger concedes points to rivals when it comes to interior refinement and sporty driving dynamics. But drivers who value comfort and utility will likely prefer the Dodge.",
         "transmission": "Automatic",
@@ -1468,8 +1468,6 @@
       "id": 25,
       "make": "Toyota",
       "model": "Yaris Hatchback",
-      "rental_price": 80,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/2JKAgUpw6Dysmij_1695324010.png",
       "img_urls": [
         {
@@ -1486,6 +1484,8 @@
         }
       ],
       "specs": {
+        "rental_price": 80,
+        "discount_percent": 10,
         "type": "Hatchback",
         "desc": "The new Yaris hatchback is a pleasing urban runabout that should work out well for people on a budget. It has surprisingly good handling chops, a nice-looking interior and usable cargo hatch. But it compromises a bit of comfort for those performance gains, and it doesn't have the available features you can find in some competitors.",
         "transmission": "Automatic",
@@ -1529,8 +1529,6 @@
       "id": 26,
       "make": "Mazda",
       "model": "3",
-      "rental_price": 85,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/JCChbtWpKVXSMV1_1695325838.png",
       "img_urls": [
         {
@@ -1547,6 +1545,8 @@
         }
       ],
       "specs": {
+        "rental_price": 85,
+        "discount_percent": 0,
         "type": "Hatchback",
         "desc": "The Mazda 3 strengths won't be found on a spec sheet — utility, fuel economy and drivability all fall around average, for instance. But the 3's distinctive style and refinement make it more enjoyable to drive and own than most other small hatchbacks.",
         "transmission": "Automatic",
@@ -1590,8 +1590,6 @@
       "id": 27,
       "make": "Subaru",
       "model": "BRZ",
-      "rental_price": 75,
-      "discount_percent": 5,
       "thumbnail_img": "https://imageupload.io/ib/8nbCykK5QAa6IK1_1695326248.png",
       "img_urls": [
         {
@@ -1608,6 +1606,8 @@
         }
       ],
       "specs": {
+        "rental_price": 75,
+        "discount_percent": 5,
         "type": "Sports car",
         "desc": "The Subaru BRZ reminds us all that you don't need to spend a fortune to have a great drive. Whether you're an inexperienced driver or a seasoned pro, the BRZ offers enjoyment for every skill level. If we were picky, we'd ask for a better audio system and a sweeter-sounding engine, but for the money, there's nothing better.",
         "transmission": "Manual",
@@ -1651,8 +1651,6 @@
       "id": 28,
       "make": "Mazda",
       "model": "CX-5",
-      "rental_price": 68,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/FuldR0VJ9ZSEn2N_1695326517.png",
       "img_urls": [
         {
@@ -1669,6 +1667,8 @@
         }
       ],
       "specs": {
+        "rental_price": 68,
+        "discount_percent": 0,
         "type": "SUV",
         "desc": "The Mazda CX-5 remains one of the best small SUVs around. It offers a high-quality interior, sharp handling and a competitive price. It comes up just a bit short in terms of rear passenger space, cargo capacity and fuel economy, but overall it's an outstanding vehicle in its class.",
         "transmission": "Automatic",
@@ -1712,8 +1712,6 @@
       "id": 29,
       "make": "Honda",
       "model": "Civic",
-      "rental_price": 75,
-      "discount_percent": 10,
       "thumbnail_img": "https://imageupload.io/ib/cWLYgtDoxWSiSDF_1695326804.png",
       "img_urls": [
         {
@@ -1730,6 +1728,8 @@
         }
       ],
       "specs": {
+        "rental_price": 75,
+        "discount_percent": 10,
         "type": "Sedan",
         "desc": "The Honda Civic boasts praiseworthy performance, high fuel economy, excellent passenger space and a refined design. There are a few minor drawbacks, such as elevated road noise on the highway, but overall the Civic is a great pick for a small sedan.",
         "transmission": "Automatic",
@@ -1773,8 +1773,6 @@
       "id": 30,
       "make": "Audi",
       "model": "A6",
-      "rental_price": 90,
-      "discount_percent": 5,
       "thumbnail_img": "https://imageupload.io/ib/9xjsAqAXgx6Y162_1695326983.png",
       "img_urls": [
         {
@@ -1791,6 +1789,8 @@
         }
       ],
       "specs": {
+        "rental_price": 90,
+        "discount_percent": 5,
         "type": "Sedan",
         "desc": "The Audi A6 provides excellent performance and plenty of the latest technology features. Comfort suffers ever so slightly when you go with the big optional wheels and sport suspension, but the upside is a vehicle that's classy to look at and very fun to drive. It's one of the best models available in the midsize luxury sedan class.",
         "transmission": "Manual",
@@ -1834,8 +1834,6 @@
       "id": 31,
       "make": "Ford",
       "model": "Explorer",
-      "rental_price": 70,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/bJWwuqBJNhX2Sxo_1695327662.png",
       "img_urls": [
         {
@@ -1852,6 +1850,8 @@
         }
       ],
       "specs": {
+        "rental_price": 70,
+        "discount_percent": 0,
         "type": "SUV",
         "desc": "The Ford Explorer has uncommonly good balance and poise for a midsize three-row SUV. It's not the roomiest, but its standard infotainment and safety tech offerings are competitive. Two things hold it back: subpar materials quality and high pricing.",
         "transmission": "Automatic",
@@ -1895,8 +1895,6 @@
       "id": 32,
       "make": "Kia",
       "model": "Sportage",
-      "rental_price": 70,
-      "discount_percent": 0,
       "thumbnail_img": "https://imageupload.io/ib/AnYoba8b7wvtmxT_1695327825.png",
       "img_urls": [
         {
@@ -1913,6 +1911,8 @@
         }
       ],
       "specs": {
+        "rental_price": 70,
+        "discount_percent": 0,
         "type": "SUV",
         "desc": "The Kia Sportage stands out with its comfortable ride quality, spacious seating and massive rear cargo area. It also comes with some appealing technology features and advanced driver aids. The Sportage's biggest shortcomings are its slow acceleration and underwhelming fuel economy.",
         "transmission": "Automatic",
