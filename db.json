@@ -740,15 +740,15 @@
       "img_urls": [
         {
           "id": 1,
-          "src": "https://imageupload.io/ib/E2AV2Rpw7bizwnJ_1694632447.webp"
+          "src": "https://imageupload.io/ib/gcKyIXV05w9FdPg_1695848656.webp"
         },
         {
           "id": 2,
-          "src": "https://imageupload.io/ib/warfp7qtdwvK05E_1694632447.webp"
+          "src": "https://imageupload.io/ib/4rSi6GWRwihjVTt_1695848656.webp"
         },
         {
           "id": 3,
-          "src": "https://imageupload.io/ib/jXcuZl1L3PSQPfy_1694632446.webp"
+          "src": "https://imageupload.io/ib/sy9klodRJbeyTNS_1695848656.webp"
         }
       ],
       "specs": {
@@ -998,7 +998,7 @@
       "specs": {
         "rental_price": 95,
         "discount_percent": 0,
-        "type": "Sports car",
+        "type": "Sports Car",
         "desc": "After its transformative redesign in 2020, the C8 Corvette surpassed a number of high-end sports car rivals in our luxury sport coupe rankings. And thanks to a few additional tech improvements, it's likely cemented its place at the top of the heap for a while to come. The Corvette is bonkers fast, it handles beautifully, and it still manages traffic and daily errands. The styling may be controversial, but its price and performance certainly are not.",
         "transmission": "Manual",
         "seats": 2,
@@ -1608,7 +1608,7 @@
       "specs": {
         "rental_price": 75,
         "discount_percent": 5,
-        "type": "Sports car",
+        "type": "Sports Car",
         "desc": "The Subaru BRZ reminds us all that you don't need to spend a fortune to have a great drive. Whether you're an inexperienced driver or a seasoned pro, the BRZ offers enjoyment for every skill level. If we were picky, we'd ask for a better audio system and a sweeter-sounding engine, but for the money, there's nothing better.",
         "transmission": "Manual",
         "seats": 4,
